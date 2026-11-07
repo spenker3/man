@@ -1,0 +1,13 @@
+node_modules/
+dist/
+web-dist/
+*.log
+.DS_Store
+
+# Eval workspaces: generated conversions, screenshots, transcripts
+evals/work/
+
+
+# Private: test apps, eval reports, and local project notes
+evals/
+CLAUDE.md
