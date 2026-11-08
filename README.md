@@ -207,4 +207,4 @@ is tight.
 
 ## License
 
-[Apache 2.0](LICENSE). GPUIX and GPUI are separate projects with their own licenses.
+[MIT](LICENSE). GPUIX and GPUI are separate projects with their own licenses.
